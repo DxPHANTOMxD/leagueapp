@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "78.24.223.134/precache-manifest.d253aa22adc853c69fca29d65b85144f.js"
+  "/DxPHANTOMxD/leagueapp.git/precache-manifest.f31f437dd86b1f972dd185fa5d1681aa.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("78.24.223.134/index.html", {
+workbox.routing.registerNavigationRoute("/DxPHANTOMxD/leagueapp.git/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });

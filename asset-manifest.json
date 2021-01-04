@@ -1,15 +1,15 @@
 {
-  "main.css": "78.24.223.134/static/css/main.eb46a825.chunk.css",
-  "main.js": "78.24.223.134/static/js/main.587a83ca.chunk.js",
-  "main.js.map": "78.24.223.134/static/js/main.587a83ca.chunk.js.map",
-  "runtime~main.js": "78.24.223.134/static/js/runtime~main.bb740505.js",
-  "runtime~main.js.map": "78.24.223.134/static/js/runtime~main.bb740505.js.map",
-  "static/css/2.71cec654.chunk.css": "78.24.223.134/static/css/2.71cec654.chunk.css",
-  "static/js/2.f1dc1d6c.chunk.js": "78.24.223.134/static/js/2.f1dc1d6c.chunk.js",
-  "static/js/2.f1dc1d6c.chunk.js.map": "78.24.223.134/static/js/2.f1dc1d6c.chunk.js.map",
-  "index.html": "78.24.223.134/index.html",
-  "precache-manifest.d253aa22adc853c69fca29d65b85144f.js": "78.24.223.134/precache-manifest.d253aa22adc853c69fca29d65b85144f.js",
-  "service-worker.js": "78.24.223.134/service-worker.js",
-  "static/css/2.71cec654.chunk.css.map": "78.24.223.134/static/css/2.71cec654.chunk.css.map",
-  "static/css/main.eb46a825.chunk.css.map": "78.24.223.134/static/css/main.eb46a825.chunk.css.map"
+  "main.css": "/DxPHANTOMxD/leagueapp.git/static/css/main.eb46a825.chunk.css",
+  "main.js": "/DxPHANTOMxD/leagueapp.git/static/js/main.587a83ca.chunk.js",
+  "main.js.map": "/DxPHANTOMxD/leagueapp.git/static/js/main.587a83ca.chunk.js.map",
+  "runtime~main.js": "/DxPHANTOMxD/leagueapp.git/static/js/runtime~main.1ac26d86.js",
+  "runtime~main.js.map": "/DxPHANTOMxD/leagueapp.git/static/js/runtime~main.1ac26d86.js.map",
+  "static/css/2.71cec654.chunk.css": "/DxPHANTOMxD/leagueapp.git/static/css/2.71cec654.chunk.css",
+  "static/js/2.f1dc1d6c.chunk.js": "/DxPHANTOMxD/leagueapp.git/static/js/2.f1dc1d6c.chunk.js",
+  "static/js/2.f1dc1d6c.chunk.js.map": "/DxPHANTOMxD/leagueapp.git/static/js/2.f1dc1d6c.chunk.js.map",
+  "index.html": "/DxPHANTOMxD/leagueapp.git/index.html",
+  "precache-manifest.f31f437dd86b1f972dd185fa5d1681aa.js": "/DxPHANTOMxD/leagueapp.git/precache-manifest.f31f437dd86b1f972dd185fa5d1681aa.js",
+  "service-worker.js": "/DxPHANTOMxD/leagueapp.git/service-worker.js",
+  "static/css/2.71cec654.chunk.css.map": "/DxPHANTOMxD/leagueapp.git/static/css/2.71cec654.chunk.css.map",
+  "static/css/main.eb46a825.chunk.css.map": "/DxPHANTOMxD/leagueapp.git/static/css/main.eb46a825.chunk.css.map"
 }
